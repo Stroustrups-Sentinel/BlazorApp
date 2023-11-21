@@ -1,4 +1,4 @@
-## An introduction to Blazor
+## An introduction to Blazor @🔥
 
 <https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro>
 
@@ -13,6 +13,9 @@ My experience:
       succinctly" from the syncfusion books, succinctly series.
 
 Ebook: <https://www.syncfusion.com/succinctly-free-ebooks/blazor-webassembly-succinctly>
+
+
+P.S:
 
     - im feeling a bit lazy an tied up to edit it and do some 
       exploration with the project (due to the tight schedule
