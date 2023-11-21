@@ -12,7 +12,7 @@ My experience:
     - now its time to do another project using "BLAZOR WEBASSEMBLY 
       succinctly" from the syncfusion books, succinctly series.
 
-Ebook: <https://www.syncfusion.com/succinctly-free-ebooks/blazor-webassembly-succinctly>
+**🔥FREE!🔥** Ebook: <https://www.syncfusion.com/succinctly-free-ebooks/blazor-webassembly-succinctly>
 
 
 P.S:
